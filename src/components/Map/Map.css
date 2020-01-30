@@ -1,0 +1,16 @@
+.map {
+    margin: 100 auto;
+}
+
+.line {
+    display: flex;
+}
+
+.square {
+    width: 30px;
+    height: 30px;
+    margin: 1px;
+    background-color: greenyellow;
+    text-align: center;
+}
+
